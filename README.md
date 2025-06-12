@@ -11,11 +11,14 @@
 
 <h2>Connect with me:</h2>
 <p>
-  <a href="mailto:westoncadena@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" style="vertical-align:middle; text-decoration:none;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/westoncadena/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align:middle; text-decoration:none;"/>
+  <a href="mailto:westoncadena@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" style="vertical-align:middle;"/>
+  </a><a href="https://www.instagram.com/westoncadena/" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="35" width="35" style="vertical-align:middle;"/>
+  </a><a href="https://x.com/westoncadena" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://svgcosmos.com/cdn/shop/files/Twitter-X-Logo-vector-svg-cricut_600x600.jpg?v=1693944025" alt="Twitter/X" height="40" width="40" style="vertical-align:bottom;"/>
+  </a><a href="https://www.linkedin.com/in/westoncadena/" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align:middle;"/>
   </a>
 </p>
 
